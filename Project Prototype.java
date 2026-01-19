@@ -1,5 +1,3 @@
-//Prototype Project by [Zandile Dladla]
-// Student Number: [4120815]
 // Project Name: Babysitting Management System
 
 import java.util.Scanner;
