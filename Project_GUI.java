@@ -1,5 +1,4 @@
 //Zandile Monalisa Dladla
-//Student Number: 4120815
 
 
 import javax.swing.*;
